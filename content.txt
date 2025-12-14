@@ -1,0 +1,2 @@
+1. Class and Object
+2. Class have data/attribute and function/methods
